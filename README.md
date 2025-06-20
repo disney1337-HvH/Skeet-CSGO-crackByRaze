@@ -1,6 +1,6 @@
 # Skeet-CSGO Crack(dump)
 
-(![image](https://github.com/user-attachments/assets/a278f8e8-c5c6-4e58-ab80-73afd81fb371)
+![image](https://github.com/user-attachments/assets/a278f8e8-c5c6-4e58-ab80-73afd81fb371)
 
 
 Welcome to the **Skeet-CSGO Crack by Raze_club** repository! This project provides a cracked (dumped) version of the Skeet cheat for *Counter-Strike: Global Offensive* (CSGO), brought to you by the Raze_club community. This repository is designed for enthusiasts and developers interested in exploring the internals of this CSGO cheat tool.
